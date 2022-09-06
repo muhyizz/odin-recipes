@@ -1,2 +1,2 @@
 # odin-recipes
-This is the odin-recipes worflow
+This is the odin-recipes workflow
