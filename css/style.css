@@ -1,0 +1,14 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightblue;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+a{
+    color: red;
+}
+
